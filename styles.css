@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+#tbl{
+    width: 400px;
+    border: 1px solid black;
+}
+
+.item{
+    position: relative;
+    left: 60px;
+}
+
+.price{
+    position: relative;
+    left: 100px;
+}
+
+#gt{
+    position: relative;
+    left: 200px;
+}
