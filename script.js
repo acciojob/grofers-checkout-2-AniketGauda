@@ -3,7 +3,7 @@ let arr = document.getElementsByClassName("price");
 
 let sm=0;
 for(let i=0;i<arr.length;i++){
-    arr[i].setAttribute("data-ns-test","prices");
+    arr[i].setAttribute("data-ns-test","price");
     sm+=parseInt(arr[i].innerHTML);
 }
 
